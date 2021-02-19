@@ -4,7 +4,6 @@
 </em></p>
 
 - 🤯 `My SSd got burnt. That's why I'm here.`
-- 📱 `I’m currently working on Scanny`
 - 💬 `Ask me about Android Development and UI/UX Designing.`
 
 ### Languages and Tools:
@@ -18,8 +17,8 @@
 
 
 ### Let's connect:
-[![Twitter: ankityddv](https://img.shields.io/twitter/follow/ankityddv?style=social)](https://twitter.com/JindalPanshul?s=09)
-[![Linkedin: ankityddv](https://img.shields.io/badge/-ankityddv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panshul-jindal-392746199)](https://www.linkedin.com/in/panshul-jindal-392746199)
+[![Twitter: ankityddv](https://img.shields.io/twitter/follow/JindalPanshul?style=social)](https://twitter.com/JindalPanshul?s=09)
+[![Linkedin: ankityddv](https://img.shields.io/badge/-panshul-jindal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panshul-jindal-392746199)](https://www.linkedin.com/in/panshul-jindal-392746199)
 [![GitHub ankityddv](https://img.shields.io/github/followers/panshuljindal?label=follow&style=social)](https://github.com/panshuljindal)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/panshuljindal/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:panshuljindal@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
