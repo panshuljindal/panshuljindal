@@ -1,18 +1,29 @@
-### Hi there! I am Panshul Jindal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Ankit Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<!--
-**Pro-Abhinav/Pro-Abhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><em>2nd year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Android App Developer. My Apps -> <a href="https://play.google.com/store/apps/details?id=com.adgvit.externals">ADG-VIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=panshuljindal&theme=onedark&count_private=true" />
+- 🤯 `My SSd got burnt. That's why I'm here.`
+- 📱 `I’m currently working on Scanny`
+- 💬 `Ask me about Android Development and UI/UX Designing.`
 
-will update soon!
+### Languages and Tools:
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<br />
+<br />
+
+
+### Let's connect:
+[![Twitter: ankityddv](https://img.shields.io/twitter/follow/ankityddv?style=social)](https://twitter.com/JindalPanshul?s=09)
+[![Linkedin: ankityddv](https://img.shields.io/badge/-ankityddv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panshul-jindal-392746199)](https://www.linkedin.com/in/panshul-jindal-392746199)
+[![GitHub ankityddv](https://img.shields.io/github/followers/panshuljindal?label=follow&style=social)](https://github.com/panshuljindal)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/panshuljindal/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:panshuljindal@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/jindal.panshul)
+[![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/panshul28)
+
+[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=panshuljindal)](https://github.com/anuraghazra/github-readme-stats)
