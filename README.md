@@ -11,15 +11,14 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <br />
 <br />
 
 
 ### Let's connect:
-[![Twitter: ankityddv](https://img.shields.io/twitter/follow/JindalPanshul?style=social)](https://twitter.com/JindalPanshul?s=09)
-[![Linkedin: ankityddv](https://img.shields.io/badge/panshul-jindalal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panshul-jindal-392746199)](https://www.linkedin.com/in/panshul-jindal-392746199)
-[![GitHub ankityddv](https://img.shields.io/github/followers/panshuljindal?label=follow&style=social)](https://github.com/panshuljindal)
+[![Twitter: panshuljindal](https://img.shields.io/twitter/follow/JindalPanshul?style=social)](https://twitter.com/JindalPanshul?s=09)
+[![Linkedin: panshuljindal](https://img.shields.io/badge/panshul-jindalal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panshul-jindal-392746199)](https://www.linkedin.com/in/panshul-jindal-392746199)
+[![GitHub panshuljindal](https://img.shields.io/github/followers/panshuljindal?label=follow&style=social)](https://github.com/panshuljindal)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/panshuljindal/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:panshuljindal@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/jindal.panshul)
