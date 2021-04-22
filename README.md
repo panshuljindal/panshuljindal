@@ -24,4 +24,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/jindal.panshul)
 [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/panshul28)
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=panshuljindal)](https://github.com/anuraghazra/github-readme-stats)
+[![Panshul's github stats](https://github-readme-stats.vercel.app/api?username=panshuljindal)](https://github.com/anuraghazra/github-readme-stats)
