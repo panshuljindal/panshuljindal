@@ -1,10 +1,14 @@
 ### Hi there, I'm Panshul Jindal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<p><em>2nd year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Android App Developer.</br> My Apps ->                  
+<p><em>2nd year Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Android App Developer.</br> My Apps ->    
+</br><a href="https://play.google.com/store/apps/details?id=com.panshul.evo">- Evo</a>
 </br><a href="https://play.google.com/store/apps/details?id=com.adgvit.externals">- ADG-VIT</a>
-</br><a href="https://play.google.com/store/apps/details?id=com.panshul.selfuel">- Selfuel</a>
-</br><a href="https://play.google.com/store/apps/details?id=com.panshul.grook">- Grook</a>
 </br><a href="https://play.google.com/store/apps/details?id=com.adgvit.internals">- ADG-Connect</a>
+</br><a href="https://play.google.com/store/apps/details?id=com.panshul.grook">- Grook</a>
+</br><a href="https://play.google.com/store/apps/details?id=com.panshul.appathon">- Appathon</a>
+</br><a href="https://play.google.com/store/apps/details?id=com.adgvit.papervit2">- PaperVIT</a>
+</br><a href="https://play.google.com/store/apps/details?id=com.panshul.selfuel">- Selfuel</a>
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 </em></p>
