@@ -17,6 +17,7 @@
 - 🤯 `My SSd got burnt. That's why I'm here.`
 - 💬 `Ask me about Android Development and UI/UX Designing.`
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=panshuljindal&theme=dark&background=000000)](https://git.io/streak-stats)
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
